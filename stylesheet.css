@@ -696,15 +696,3 @@ section{
         background: url(Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png)no-repeat;
     }
 }
-
-@media screen and (max-width:912px){
-    .home{
-        background: url(Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png)no-repeat;
-    }
-}
-
-@media screen and (min-width:1024px) and (max-width:1366px){
-    .home{
-        background: url(Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png)no-repeat;
-    }
-}
